@@ -23,7 +23,7 @@ def calculate_similarity(vec1, vec2):
 
 
 if __name__ == '__main__':
-    model = KeyedVectors.load('TC.bin')
+    model = KeyedVectors.load('TC')
     file = open('standardMeta.txt', 'r', encoding='utf-8')
     myDict = {}
     for line in file:
