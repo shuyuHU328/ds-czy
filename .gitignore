@@ -9,6 +9,5 @@ TC.bin
 TC.bin.vectors.npy
 /.idea
 /large
-*.json
 *.ttf
 *.txt
