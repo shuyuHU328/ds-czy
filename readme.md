@@ -1,4 +1,4 @@
-# A semantic matching model (施工中)
+# A semantic matching model
 
 ## 研究问题
 文本匹配：实现同义字段的一对一的关联匹配，为字段推荐出相似度最高的topk项
