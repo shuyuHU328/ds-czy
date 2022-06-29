@@ -24,4 +24,4 @@ def refine_embedding(inpath='tencent-ailab-embedding-zh-d100-v0.2.0-s/tencent-ai
 if __name__ == '__main__':
     wv_from_text = KeyedVectors.load_word2vec_format("tencent-ailab-embedding-zh-d100-v0.2.0.txt", binary=False,
                                                      encoding='utf8')
-    wv_from_text.save('TC.bin')
+    wv_from_text.save('TC')
