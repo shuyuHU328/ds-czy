@@ -4,4 +4,11 @@ refine.txt
 TC_Model.bin
 test.bin
 test.bin.vectors.npy
+standardMeta.txt
+TC.bin
+TC.bin.vectors.npy
 /.idea
+/large
+*.json
+*.ttf
+*.txt
